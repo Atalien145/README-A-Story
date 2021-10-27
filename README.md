@@ -1,7 +1,10 @@
-# README-Generator
+# README-A-Book
+
+ 
 
   ## Table of Contents 
   * [Description](#description)
+  * [Video](#video)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contribution](#contibution)
@@ -18,6 +21,15 @@
   ## Description 
   > This app is used to creat a quality README.md on the command line using node and inquirer and fs.wright file. You quickly fill out the prompts and in no time you have a quality README!
   
+  ---
+
+  ---
+  ## Video
+  https://watch.screencastify.com/v/NruWeGCFzxO22VQyvWVz
+
+
+  ---
+
   ---
   
   ## Installation
@@ -61,4 +73,5 @@
   ---
   
   # And Thats All Folks!
+  
   
